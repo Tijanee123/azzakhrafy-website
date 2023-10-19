@@ -1,0 +1,30 @@
+body{
+    background-image: url("forest.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    background-color: black;
+    opacity: 90%;
+    background: rgb(50%, 70%, 80%);
+    color: white;
+    margin: 30px;
+    padding: 20px;
+}
+input{
+    text-align: center;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid white;
+}
+button{
+    background: yellow;
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+
+}
+body2{
+    text-align: center;
+    font-size: 30px;
+}
